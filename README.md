@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=karloks2005&count_private=true&show_icons=true&theme=dracula)
 <br>
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=karloks2005&count_private=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karloks2005&theme=tokyonight)
