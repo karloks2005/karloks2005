@@ -1,5 +1,7 @@
+### GitHub Stats
 
-[![](https://raw.githubusercontent.com/karloks2005/karloks2005/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/karloks2005/karloks2005/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/karloks2005/karloks2005/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/karloks2005/karloks2005/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/karloks2005/karloks2005/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karloks2005&show_icons=true&theme=tokyonight)
 
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karloks2005&layout=compact&theme=tokyonight)
