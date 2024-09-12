@@ -1,6 +1,12 @@
 ### Welcome to my GitHub Profile!
 
-👋 Hi there! I'm Karlo, a passionate Computer Science student with a love for exploring and experimenting with different technologies. I'm always excited to learn new things, dive into coding challenges, and bring ideas to life through creative projects. Let's build something awesome together!
+👋 Hi there! I'm Karlo, a passionate Computer Science student with a love for exploring and experimenting with different technologies. I'm always excited to learn new things, dive into coding challenges, and bring ideas to life through creative projects.
+
+💻 Karlo | CS Student & Aspiring Software Developer
+🌱 Learning: Always exploring new technologies, currently working with Flutter, Firebase, Dart, and FastAPI to build dynamic cross-platform mobile apps .
+🚀 Skills: Proficient in multiple technologies such as Python, Flutter, Dart, FastAPI... Passionate about problem-solving and creating impactful projects.
+🎯 Goals: Aspiring to contribute to open-source and develop innovative, user-centric solutions.
+⚡ Fun Fact: When I’m not coding... Well, I'm always coding.
 
 ---
 
