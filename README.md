@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile!
 
-👋 Hi! My nam is Karlo and I'm a CS student who loves playing around with different technologies. I'm passionate about coding, learning new technologies, and building awesome projects.
+👋 Hi there! I'm Karlo, a passionate Computer Science student with a love for exploring and experimenting with different technologies. I'm always excited to learn new things, dive into coding challenges, and bring ideas to life through creative projects. Let's build something awesome together!
 
 ---
 
